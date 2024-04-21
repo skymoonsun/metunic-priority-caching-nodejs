@@ -1,0 +1,14 @@
+{
+  "name": "my-nodejs-app",
+  "version": "1.0.0",
+  "description": "Node.js application for caching and processing logs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
